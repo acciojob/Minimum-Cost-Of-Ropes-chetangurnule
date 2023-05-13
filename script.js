@@ -12,5 +12,5 @@ function calculateMinCost() {
         sum += c;
         arr.push(c);
       }
-      result.textContent = sum;
+      result.textContent = `The minimum cost of ropes ${sum}`;
   } 
