@@ -19,3 +19,4 @@ function calculateMinCost() {
   }
  
   document.getElementById('result').textContent = res;
+}
